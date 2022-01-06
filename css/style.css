@@ -146,3 +146,36 @@
     background-position: 25px;
     background-size: 227px 227px;
 }
+.global-comm{
+    background-image: url(img/shape-1.png);
+    background-repeat: no-repeat;
+    background-position: bottom right;
+    background-size: 200px 200px;
+}
+.dev-3{
+    margin-left: 150px;
+}
+.dev-3 h2{
+    color: #333333;
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 54px;
+    margin-bottom: 35px;
+}
+.dev-3 p{
+    color: #3E3E3E;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+    padding-right: 5%;
+    margin-bottom: 26px;
+}
+.dev-3 a{
+    color: #fff;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 20px;
+    background-color: #FF5959;
+    padding: 12px 24px;
+    border-radius: 5px;
+}
