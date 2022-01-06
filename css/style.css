@@ -179,3 +179,28 @@
     padding: 12px 24px;
     border-radius: 5px;
 }
+
+footer{
+    text-align: center;
+    background-color: #000;
+}
+footer h2{
+    font-family: 'Lobster', cursive;
+    color: #fff;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 44px;
+    padding-top: 45px;
+}
+footer p{
+    font-family: 'Manrope', sans-serif;
+    color: #D9DBE1;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    padding-top: 30px;
+    padding-bottom: 50px;
+}
+.footer-2022{
+    color: #FF5959;
+}
