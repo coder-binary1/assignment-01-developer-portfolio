@@ -201,6 +201,30 @@ footer p{
     padding-top: 30px;
     padding-bottom: 50px;
 }
+
+.introduction-sec h1{
+    font-family: 'Poppins', sans-serif;
+    font-size: 48px;
+    color: #000;
+    font-weight: 700;
+    text-align: center;
+    padding-bottom: 50px;
+}
+.whoiam{
+    color: #FFAD5A; 
+}
+.intro-2{
+    padding-left: 10%;
+    padding-top: 5%;
+}
+.intro-2 ul{
+    padding-left: 5%;
+}
+.introduction-sec img{
+    
+}
+
+
 .footer-2022{
     color: #FF5959;
 }
